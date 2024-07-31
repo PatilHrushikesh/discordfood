@@ -1,0 +1,30 @@
+{
+    "hrushi": {
+        "total": 3,
+        "work": 2
+    },
+    "shubham": {
+        "total": 3,
+        "work": 1
+    },
+    "kalpesh": {
+        "total": 3,
+        "work": 2
+    },
+    "ajit": {
+        "total": 3,
+        "work": 1
+    },
+    "prasad": {
+        "total": 3,
+        "work": 1
+    },
+    "digvijay": {
+        "total": 2,
+        "work": 0
+    },
+    "roshan": {
+        "total": 3,
+        "work": 2
+    }
+}
